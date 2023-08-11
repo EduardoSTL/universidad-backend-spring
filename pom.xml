@@ -89,7 +89,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>Universidad Springboot</finalName>
+		<finalName>Universidad Springboot API rest</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
