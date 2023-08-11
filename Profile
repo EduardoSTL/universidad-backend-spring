@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/Universidad\ Springboot.war
+web: java -Dserver.port=$PORT $JAVA_OPTS -Dserver.servlet.context-path=/ -cp target/Universidad\ Springboot.war
